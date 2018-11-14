@@ -70,6 +70,7 @@ echo "## Managing Sources ##"
 echo "######################"
 
 hash -r
+echo "export PATH=$PATH:$HOME/bin" >> ~/.bashrc
 source ~/.profile
 source ~/.bashrc
 

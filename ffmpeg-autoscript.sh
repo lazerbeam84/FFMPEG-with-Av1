@@ -121,6 +121,10 @@ echo "---------------------------------------"
 cd ~
 source ~/.profile
 source ~/.bashrc
+cp ~/bin/ffmpeg /usr/bin/
+cp ~/bin/ffplay /usr/bin/
+cp ~/bin/ffprobe /usr/bin/
+
 ffplay http://www.wowza.com/_h264/BigBuckBunny_115k.mov
 
 echo "---------------------------------------"

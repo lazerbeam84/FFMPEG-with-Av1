@@ -40,7 +40,7 @@ echo "#############################"
 echo "---------------------------------------"
 echo "---------------------------------------"openssl
 
-apt-get -y install autoconf automake build-essential git libgnutls28-dev cmake git-core libass-dev libfreetype6-dev libsdl2-dev libtool libva-dev libvdpau-dev libvorbis-dev libxcb1-dev  libxcb-shm0-dev libssl-dev libxcb-xfixes0-dev pkg-config texinfo wget zlib1g-dev libx264-dev yasm libx265-dev libnuma-dev libvpx-dev libfdk-aac-dev libmp3lame-dev libopus-dev libzthread-2.3-2 libzthread-dev doxygen
+apt-get -y install autoconf automake build-essential git asciidoc libgnutls28-dev cmake git-core libass-dev libfreetype6-dev libsdl2-dev libtool libva-dev libvdpau-dev libvorbis-dev libxcb1-dev  libxcb-shm0-dev libssl-dev libxcb-xfixes0-dev pkg-config texinfo wget zlib1g-dev libx264-dev yasm libx265-dev libnuma-dev libvpx-dev libfdk-aac-dev libmp3lame-dev libopus-dev libzthread-2.3-2 libzthread-dev doxygen
 
 echo "---------------------------------------"
 echo "#######################"

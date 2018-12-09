@@ -4,7 +4,7 @@
     ### FFMPEG Install Script with AV1 Support 
 
   ## Requirements
-     Ubuntu 16.04 LTS server
+     Ubuntu 18.04.1 LTS server
      Install build-essential and git
 
   ## Usage

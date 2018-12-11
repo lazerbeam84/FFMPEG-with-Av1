@@ -84,7 +84,7 @@ echo "---------------------------------------"
 echo "---------------------------------------"
 mkdir -p ~/ffmpeg_sources/libaom/source
 cd ~/ffmpeg_sources/libaom/source
-git clone https://github.com/mozilla/aom
+git clone https://aomedia.googlesource.com/aom
 cd ~/ffmpeg_sources/libaom
 cmake source
 make
